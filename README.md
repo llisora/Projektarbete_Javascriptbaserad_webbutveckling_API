@@ -1,7 +1,7 @@
 # Projektarbete_Javascriptbaserad_webbutveckling_API
 Detta är filerna för mitt REST-api i projektarbetet för kursen JavaScriptbaserad Webbutveckling.
 
-<h1>REST-apo</h1><br>
+<h1>REST-api</h1><br>
 <p>Detta är ett API skapat i JavaScript för projektuppgift i kursen Fullstacks-utveckling med Ramverk</p>
 
 <h1>Användning API</h1><br>
